@@ -1,5 +1,5 @@
  @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200&family=Tajawal&display=swap');
-@media screen and (max-width 1024px) {
+@media screen and (max-width:1024px) {
     *{
         padding: 0px;
         margin: 0px;
