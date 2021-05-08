@@ -1,5 +1,7 @@
  @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200&family=Tajawal&display=swap');
-@media screen and (max-width:1024px) {
+ @media screen and (max-width:12024px) {
+     
+ 
     *{
         padding: 0px;
         margin: 0px;
@@ -12,10 +14,10 @@
         font-size: 20px;
         line-height: 1.5;
         height: auto;
-        width: auto;
+        width: 100%;
         background-image: url("https://i.imgur.com/sJ003Km.jpeg");
         background-repeat: no-repeat;
-        background-position: 0px 700px;
+        background-position: 0px 1800px;
         background-size: 100%;
         background-attachment:scroll;
     }
@@ -156,9 +158,9 @@
     }
     
      .FFs{
-         font-size: 30px;
+         font-size: 20px;
          color:rgba(250, 239, 83, 0.809);
-       padding: 0 450px;
+       padding: 0 0px;
        
      }
     
