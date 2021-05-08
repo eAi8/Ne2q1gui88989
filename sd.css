@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200&family=Tajawal&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200&family=Tajawal&display=swap');
 *{
     padding: 0px;
     margin: 0px;
@@ -11,7 +11,7 @@ body{
     font-size: 20px;
     line-height: 1.5;
     height: 7500px;
-    width: 1000px;
+    width: 100%;
     background-image: url("https://i.imgur.com/sJ003Km.jpeg");
     background-repeat: no-repeat;
     background-position: 0px 700px;
@@ -19,7 +19,6 @@ body{
     background-attachment:scroll;
 }
  
-
 a{
   text-decoration: none;
 }
@@ -33,7 +32,7 @@ a{
     background-color: rgba(71, 71, 72, 0.5);
     color:#fff;
     justify-content:space-between;
-    padding: 1rem;
+    padding: 1.5rem;
     z-index: 1;
 }
 #navBar ul{
@@ -166,5 +165,3 @@ b{
      color: rgb(102, 1, 60);
      font-size: 39px;
  } 
-.psss{
-    font-size:18px;
