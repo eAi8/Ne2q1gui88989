@@ -22,7 +22,7 @@
     }
     .text-primary{
         color: darkblue;
-        font-size: 40px;
+        font-size: 20px;
     }
     #navBar{
         display: flex;
@@ -74,54 +74,53 @@
     }
     .fh{
        
-        color: blue;
+        color: rgb(7, 7, 179);
        font-size: 25px;
     }
     
     .She1{
-        color: blue;
+         color: rgb(7, 7, 179);
         font-size: 25px;
     }
     .She{
-        color: blue;
+        color: rgb(7, 7, 179);
         font-size: 25px;
     }
     
     .dun{
-        color: blue;
+         color: rgb(7, 7, 179);
         font-size: 25px;
     }
     
     .han{
-        
-            color: blue;
+       color: rgb(7, 7, 179);
             font-size: 25px;
       
     }
     
     .has{
        
-         color: blue;
+      color: rgb(7, 7, 179);
         font-size: 25px;
     }
     .NO{
-        color: blue;
+          color: rgb(7, 7, 179);
         font-size: 25px;
     }
     .yar{
-        color: blue;
+         color: rgb(7, 7, 179);
         font-size: 25px;
     }
     .sud{
-        color: blue;
+         color: rgb(7, 7, 179);
         font-size: 25px;
     }
     .mus{
-        color: blue;
+        color: rgb(7, 7, 179);
         font-size: 25px;
     }
     .jm{
-        color: blue;
+           color: rgb(7, 7, 179);
         font-size: 25px;
     }
     
