@@ -2,12 +2,7 @@
  @media screen and (max-width:12024px) {
      
  
-    *{
-        padding: 0px;
-        margin: 0px;
-        box-sizing:border-box;
-    }
-    
+   
     body{
         font-family: 'Cairo', sans-serif;
         font-family: 'Tajawal', sans-serif;
